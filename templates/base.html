@@ -1,0 +1,44 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+        integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="{% static './css/style.css' %}">
+    <title>Tim Arnold</title>
+</head>
+
+<body>
+    <div class="menu-btn">
+        <i class="fas fa-bars fa-2x"></i>
+    </div>
+
+    <!-- Nav -->
+    <nav class="main-nav">
+        <h2>TIM ARNOLD</h2>
+        <div class="main-menu-container">
+            <ul class="main-menu">
+                <li><a href="{%  url "index" %}">CV</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    {% block content %}
+    <---content goes here--->
+        {% endblock content %}
+
+        <footer class="footer">
+            <p>Tim Arnold, Copyright&copy; 2020</p>
+        </footer>
+
+        <script> /* sets up the functionality for the button such that when it is clicked it selects the menu class and toggles the property show which in turn stops translating it so far left and makes it visible on the screen */
+            document.querySelector('.menu-btn').addEventListener
+                ('click', () => document.querySelector('.main-menu')
+                    .classList.toggle('show'));
+        </script>
+</body>
+
+</html>

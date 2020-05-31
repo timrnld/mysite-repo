@@ -1,0 +1,92 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="container">
+    <div id="aboutsection">
+        <h1>About</h1>
+        <h2>A wide range of HR skillsets complimented by a strong understanding
+            of how to create technology driven efficiency in the workplace.
+        </h2>
+    </div>
+    <div id="details">
+        <div class="learningteaching">
+            <img src="{% static './img/computer1.png' %}">
+            <h1>People Skills</h1>
+            <p>Analytics is about decision-making. It’s about finding and harvesting opportunities to reduce costs,
+                increase revenues, and mitigate risk. We have deep experience in predictive, spatial, and prescriptive
+                methods. We're adept at machine learning, statistics, and econometrics. But we don’t stop there. We own
+                the adoption. We make sure the analysis is useful and used.</p>
+        </div>
+        <div class="learningteaching">
+            <img src="{% static './img/computer2.png' %}">
+            <h1>Tech Skills</h1>
+            <p>Analytics is about decision-making. It’s about finding and harvesting opportunities to reduce costs,
+                increase revenues, and mitigate risk. We have deep experience in predictive, spatial, and prescriptive
+                methods. We're adept at machine learning, statistics, and econometrics. But we don’t stop there. We own
+                the adoption. We make sure the analysis is useful and used.</p>
+        </div>
+    </div>
+    <h1 id="latestblogs">Latest from the blog</h1>
+    <!-- Home cards 1 -->
+    <section class="home-cards">
+        <div>
+            <img src="https://i.ibb.co/LZPVKq9/card1.png" alt="">
+            <h3>The Memory Palace</h3>
+            <p>
+                See how Katie Sowers, Asst. Coach for the 49ers, uses Surface Pro 7
+                to put her plans into play.
+            </p>
+            <a href="#">Learn More <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/KjGFHVJ/card2.png" alt="" />
+            <h3>How to set a goal</h3>
+            <p>
+                Express yourself powerfully with a thin, light, and elegant design,
+                faster performance, and up to 11.5 hours battery life.
+            </p>
+            <a href="#">Learn More <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/mGZcxcn/card6.jpg" alt="" />
+            <h3>The importance of why</h3>
+            <p>
+                Buy an Xbox One X console and double your fun with a free select
+                extra controller. Starting at $349.
+            </p>
+            <a href="#">Learn More <i class="fas fa-chevron-right"></i></a>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="testimonials dark">
+        <div class="content">
+            <h2>Testimonials</h2>
+            <p>In mattis pulvinar dui vitae placerat. Sed consequat leo sit amet scelerisque commodo. Fusce bibendum
+                nunc purus, eget malesuada ex fringilla ac. Mauris imperdiet ipsum ac eros feugiat, sed tincidunt nibh
+                tincidunt. Maecenas a turpis sed lacus lacinia tincidunt et id augue.</p>
+            <a href="#" class="btn">
+                Learn More <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- Follow -->
+    <section class="follow">
+        <p>Follow Tim</p>
+        <a href="https://facebook.com">
+            <img src="https://i.ibb.co/LrVMXNR/social-fb.png" alt="Facebook">
+        </a>
+        <a href="https://twitter.com">
+            <img src="https://i.ibb.co/vJvbLwm/social-twitter.png" alt="Twitter">
+        </a>
+        <a href="https://linkedin.com">
+            <img src="https://i.ibb.co/b30HMhR/social-linkedin.png" alt="Linkedin">
+        </a>
+    </section>
+</div>
+
+
+{% endblock content%}
