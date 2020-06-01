@@ -10,7 +10,7 @@ Skills I have learned through this project include.
 
 Things I want to do with the website
     -:HOMEPAGE:-
-    This will be wholy unimportant but simply set up so that a visitor to the site is greeted with a simple "This site is currently
+    This will be wholy unimportant app but simply set up so that a visitor to the site is greeted with a simple "This site is currently
         under contstruction."
     Will be where the index links to. Does not need any HTML rather a simple view with some text. At a later date the home page may
         become something of a navigation hub or it may simply be removed and the home index set to my CV. 
