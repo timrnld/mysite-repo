@@ -38,3 +38,6 @@ Things I want to do with the website
     Visitors would create an account which would be linked to the database. 
     As I want it to be based within my own website then I would have it so that
         a visitor would paste the article into a reader on the webpage. 
+    
+    -:WORKOUT-TRACKER:-
+    This will be a way of recording my workouts as well as visualising the 1RM based point system that I have been using through excel.
