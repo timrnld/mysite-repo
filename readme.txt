@@ -46,3 +46,13 @@ Things I want to do with the website
     
     -:WORKOUT-TRACKER:-
     This will be a way of recording my workouts as well as visualising the 1RM based point system that I have been using through excel.
+    
+How to deploy this website
+    The deployed version of the website will be the master branch. 
+    New developments will be part of a working branch for each individual app in the mysite django project. 
+    When I am happy with a working branch and that it is ready to deploy I will merge it with the master branch. 
+        1. log into the server and git pull the master branch. 
+        2. Change settings.py to dissallow 127.0.0.1 and set debug to false
+        3. Run "python manage.py collectstatic"
+        4. reload gunicorn
+        
