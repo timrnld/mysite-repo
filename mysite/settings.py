@@ -25,7 +25,7 @@ SECRET_KEY = '$f7e2$o*m1@h=0y&0gk2x3to28sb)rg@1_@-5))+71_f_e-wlg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '165.22.104.219', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '165.22.104.219', '127.0.0.1', 'www.timarnold.co.nz', 'timarnold.co.nz']
 
 
 # Application definition
