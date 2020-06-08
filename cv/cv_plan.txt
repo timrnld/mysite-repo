@@ -1,0 +1,19 @@
+Welcome Section
+  Photo or no photo?
+  A quick about me
+  
+Skills
+  Technical
+    Sharepoint
+    Python
+      Webscraping
+      Django
+      Data Analysis
+    Web Development
+      Hosting
+      Security
+      HTML
+      CSS
+  People
+  Procedural
+  Knowledge
