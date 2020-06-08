@@ -2,18 +2,51 @@ Welcome Section
   Photo or no photo?
   A quick about me
   
-Skills
+Contact Information
+  Tim Arnold
+  Phone: 020 4141 3326
+  Email: tim@timarnold.co.nz
+    Download my pdf Resume
+  
+Professional Skillset
   Technical
     Sharepoint
     Python
       Webscraping
-      Django
       Data Analysis
+    Javascript
+    Database Management
+      Postgres
+      MySQL
     Web Development
+      Django
       Hosting
       Security
       HTML
       CSS
   People
+    Communication
+    Change Management
+    Project Management
+    
   Procedural
   Knowledge
+    Immigration
+    HR Legislation
+    
+Education
+  Bachelor of Commerce - Human Resource Management
+  Bachelor of Science - Psychology
+  
+Experience
+  Broad general workforce experience - Liqour store, Bookstores, Dairies, Farming
+  HR Administrator - Earth & Sky / Dark Sky Project
+  HR Manager - Tekapo Springs Limited
+  
+Testimonials
+  People & Link to their facebook or linked in to legitimise
+  Reference contacts available on request
+  
+Find me online
+  Facebook
+  LinkedIn
