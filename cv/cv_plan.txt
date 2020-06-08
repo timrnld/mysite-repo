@@ -13,11 +13,16 @@ Professional Skillset
     Sharepoint
     Python
       Webscraping
+        Collecting large amount of data automatically from the internet for analysis.
       Data Analysis
+        Understanding organizing and communicating convincingly with data.
     Javascript
+      Extend functionality of websites creating interactive buttons and objects. 
     Database Management
       Postgres
+        For larger projects that require extended functionality. 
       MySQL
+        Fast, powerful and lightweight MySQL is suitable for a wide range of purposes. 
     Web Development
       Django
       Hosting
