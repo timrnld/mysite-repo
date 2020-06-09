@@ -25,8 +25,8 @@ Professional Skillset
     Database Management
       Postgres
         For larger projects that require extended functionality. 
-      MySQL
-        Fast, powerful and lightweight MySQL is suitable for a wide range of purposes. 
+      SQLite
+        Fast, powerful and lightweight SQLite is suitable for a wide range of purposes. 
     Web Development
       Django
       Hosting
