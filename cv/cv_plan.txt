@@ -1,0 +1,61 @@
+Examples
+  https://www.wix.com/website-template/view/html/1892?siteId=cd7cf75a-1837-4c9d-bdf3-19d9204309e9&metaSiteId=3d1060d5-8d62-4059-9829-d6c7a768ad26&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2Fresumes-cvs&tpClick=view_button
+  https://www.wix.com/website-template/view/html/1893?siteId=31c9cc64-4739-437a-bf99-8a87fae88840&metaSiteId=7df46866-884d-4ed2-a9ea-b6f80df2ebaf&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2Fresumes-cvs&tpClick=view_button
+  https://www.wix.com/website-template/view/html/2622?siteId=7e761c3c-729b-4d4e-9dc3-a8242c486f56&metaSiteId=3f62d478-a066-43ee-98e6-3e48600ff893&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2Fresumes-cvs&tpClick=view_button
+Welcome Section
+  Photo or no photo?
+  A quick about me
+  
+Contact Information
+  Tim Arnold
+  Phone: 020 4141 3326
+  Email: tim@timarnold.co.nz
+    Download my pdf Resume
+  
+Professional Skillset
+  Technical
+    Sharepoint
+    Python
+      Webscraping
+        Collecting large amount of data automatically from the internet for analysis.
+      Data Analysis
+        Understanding organizing and communicating convincingly with data.
+    Javascript
+      Extend functionality of websites creating interactive buttons and objects. 
+    Database Management
+      Postgres
+        For larger projects that require extended functionality. 
+      MySQL
+        Fast, powerful and lightweight MySQL is suitable for a wide range of purposes. 
+    Web Development
+      Django
+      Hosting
+      Security
+      HTML
+      CSS
+  People
+    Communication
+    Change Management
+    Project Management
+    
+  Procedural
+  Knowledge
+    Immigration
+    HR Legislation
+    
+Education
+  Bachelor of Commerce - Human Resource Management
+  Bachelor of Science - Psychology
+  
+Experience
+  Broad general workforce experience - Liqour store, Bookstores, Dairies, Farming
+  HR Administrator - Earth & Sky / Dark Sky Project
+  HR Manager - Tekapo Springs Limited
+  
+Testimonials
+  People & Link to their facebook or linked in to legitimise
+  Reference contacts available on request
+  
+Find me online
+  Facebook
+  LinkedIn

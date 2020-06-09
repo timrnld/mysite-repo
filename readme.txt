@@ -55,4 +55,8 @@ How to deploy this website
         2. Change settings.py to dissallow 127.0.0.1 and set debug to false
         3. Run "python manage.py collectstatic"
         4. reload gunicorn
+
+Little Details I want to improve
+    Add a little image to the tab section in the browser.
+    Add CAA so that I get an A rating for security for the website instead of a B
         
